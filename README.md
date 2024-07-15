@@ -1,4 +1,11 @@
-# React + TypeScript + Vite
+# Spike Game
+
+This app was developed using Claude Sonnet 3.5.
+
+The server for this app was created using [Vite](https://vitejs.dev/guide/).
+Specifcally this template: `npm create vite@latest spike-game -- --template react-swc-ts`
+
+# About React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
