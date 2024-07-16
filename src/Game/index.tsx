@@ -240,11 +240,11 @@ const Game: React.FC = () => {
       key={`${isTop ? 'top' : 'bottom'}-${index}`}
       className={`absolute transition-opacity duration-1000 ${
         spike.dangerous ? 'bg-gray-300 opacity-100' :
-        spike.bonus === 1 ? 'bg-green-300 opacity-30' :
-        spike.bonus === 10 ? 'bg-blue-300 opacity-30' :
-        spike.bonus === 100 ? 'bg-pink-300 opacity-30' :
-        spike.bonus === 1000 ? 'bg-orange-300 opacity-30' :
-        'bg-gray-300 opacity-30'
+          spike.bonus === 1 ? 'bg-green-300 opacity-30' :
+            spike.bonus === 10 ? 'bg-blue-300 opacity-30' :
+              spike.bonus === 100 ? 'bg-pink-300 opacity-30' :
+                spike.bonus === 1000 ? 'bg-orange-300 opacity-30' :
+                  'bg-gray-300 opacity-30'
       }`}
       style={{
         width: GAME_SIZE / 10,

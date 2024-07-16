@@ -1,5 +1,6 @@
-import './App.css'
-import Game from './Game'
+import React from 'react';
+import './App.css';
+import Game from './Game';
 
 function App() {
 
@@ -7,7 +8,7 @@ function App() {
     <>
       <Game />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
