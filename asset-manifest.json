@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/SpikeGame/static/css/main.31d6cfe0.css",
+    "main.js": "/SpikeGame/static/js/main.bda2010f.js",
+    "index.html": "/SpikeGame/index.html",
+    "main.bda2010f.js.map": "/SpikeGame/static/js/main.bda2010f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.bda2010f.js"
+  ]
+}
